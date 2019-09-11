@@ -53,6 +53,10 @@ body{
     font-size: 30;
     color:white;
 }
+.help:hover
+{
+    background-color: #333333;
+}
 .foot
 {
     font-size: 14px;
@@ -68,4 +72,22 @@ body{
 }
 .symb{
     text-align: end;
+}
+.pict_block
+{
+    font-size :26px;
+    color:#333333;
+}
+#quote
+{
+    font-size: 20;
+    color:#777777;
+    /* font-family: Lato; */
+}
+.Quote
+{
+    font-size:15px;
+    font-family: Lato;
+    line-height:27px;
+    color:#555555;
 }
